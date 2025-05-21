@@ -9,7 +9,6 @@
 // Blynk Authentication Token: Secret key provided by Blynk to authenticate your device. Replace "Secrate keyy" with your actual token from the Blynk app or dashboard.
 #define BLYNK_AUTH_TOKEN "Secrate keyy"
 
-
 // WiFi SSID: The name of your WiFi network. Replace "WiFi" with your actual WiFi network name.
 char ssid[] = "WiFi";
 
