@@ -1,0 +1,29 @@
+# Arduino-specific files
+*.ino.bin
+*.elf
+*.hex
+*.o
+*.d
+
+# Sensitive files
+secrets.h
+
+# IDE and build files
+.build/
+.cache/
+.vscode/
+.idea/
+*.bak
+*.tmp
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# General
+*.log
+*.zip
+*.gz
+*.rar
