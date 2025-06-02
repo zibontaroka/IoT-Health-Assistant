@@ -101,3 +101,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [SparkFun](https://github.com/sparkfun) for MAX30105 libraries.
 - [Blynk](https://blynk.io/) for IoT platform support.
 - [Adafruit](https://github.com/adafruit) for DHT library.
+
+- 
+## 🧠 Author  
+**Md Shaifulla Zibon**  
+Electrical and Electronics Engineering  
+European University of Bangladesh  
+GitHub: [@zibontaroka](https://github.com/zibontaroka)
